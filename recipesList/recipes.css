@@ -1,0 +1,21 @@
+*{
+    background-color: #929ce0;  
+}
+
+h1{
+    font-size: 48px;
+}
+
+img{
+    height: auto;
+    width: 30vw;
+}
+
+h2{
+    font-size: 36px;
+}
+
+li{
+    font-size: 20px;
+    color: white;
+}
